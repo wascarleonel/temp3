@@ -121,10 +121,10 @@
 			bottom: 0;
 			background-color: #0C717D; <!-- background-color: #011F3B; -->
 			height: 100%;
-			transition: width 1s;
-			text-align: right;
+			transition: width 5s; <!-- -->
+			text-align: left;
 			padding-right: 1rem;
-			line-height: 2rem;
+			line-height: 2rem; <!-- -->
 			color: white;
 			font-weight: bold;
 		}
