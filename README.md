@@ -73,8 +73,8 @@
 
 		</div>
 		<nav>
-			<a href="https://example.com">Button 1</a>
-			<a href="https://wascarleonel.github.io/temp3/#section-2">Button 2</a>
+			<a href="[https://example.com](https://wascarleonel.github.io/temp3/#section-2)">Skills</a>
+			<a href="https://wascarleonel.github.io/temp3/#section-2">Portfolio</a>
 			<a href="https://example.com">Button 3</a>
 			<a href="https://example.com">Button 4</a>
 		</nav>
@@ -88,7 +88,7 @@
 		</section>
 	
  		<section class="section">
-			<h2>Section 2</h2>
+			<h2>Skills</h2>
 	<!--  ************************************************** -->
 
 <head>
