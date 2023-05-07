@@ -3,6 +3,14 @@
 	
 	<title>My Webpage</title>
 	<style>
+		
+<style>
+	.name {
+		color: white;
+	}
+</style>
+
+		
 		body {
 			background-color: #011F3B;
 			color: white;
