@@ -108,10 +108,10 @@
 	
 		}
 		.progress-bar {
-			position: relative; <!-- -->
+			position: relative; 
 			align-items: center;
 			width: 50%;
-			height: 2rem;
+			height: 1rem; <!-- -->
 			background-color: #E2E2E2;
 			border-radius: 1rem;
 			overflow: hidden;
