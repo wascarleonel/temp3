@@ -4,12 +4,6 @@
 	<title>My Webpage</title>
 	<style>
 		
-<style>
-	.name {
-		color: white;
-	}
-</style>
-
 		
 		body {
 			background-color: #011F3B;
@@ -75,9 +69,13 @@
 		</div>
 		<div class="info">
 
-	<!-- -->	<style> .name {color: white;}
+<style>
+	.name {
+		color: white;
+	}
+</style>	
 			<div class="name">Wascar Leonel</div>
-			<div class="title">Copywriter | Editor | Educator</div> </style>
+			<div class="title">Copywriter | Editor | Educator</div>
 
 		</div>
 		<nav>
