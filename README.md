@@ -23,11 +23,11 @@
 			padding: 0.5rem;
 			margin-right: 1rem;
 			border-radius: 0.5rem;
-			background-color: #011F3B <!--#3D6CA7; -->
+			background-color: #011F3B; <!--#3D6CA7; -->
 			transition: background-color 0.2s;
 		}
 		nav a:hover {
-			background-color: #95B8E7;
+			background-color: #011F3B; <!--#95B8E7; -->
 		}
 		.profile {
 			width: 5rem;
