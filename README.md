@@ -92,6 +92,7 @@
 	<!--  ************************************************** -->
 
 <head>
+	align: center; <!-- -->
 	<!-- <title>My Progress Bars</title> -->
 	<style>
 		body {
