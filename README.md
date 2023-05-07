@@ -122,7 +122,7 @@
 			background-color: #0C717D; <!-- background-color: #011F3B; -->
 			height: 100%;
 			transition: width 1s;
-			text-align: left;
+			text-align: center; <!-- -->
 			padding-right: 1rem;
 			line-height: 2rem;
 			color: white;
