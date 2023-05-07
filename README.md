@@ -107,7 +107,7 @@
 		}
 		.progress-bar {
 			position: relative;
-			width: 100%;
+			width: 50%;
 			height: 2rem;
 			background-color: #E2E2E2;
 			border-radius: 1rem;
