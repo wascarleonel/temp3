@@ -109,6 +109,7 @@
 			position: relative;
 			width: 50%;
 			height: 2rem;
+			align: center; <!-- -->
 			background-color: #E2E2E2;
 			border-radius: 1rem;
 			overflow: hidden;
@@ -121,10 +122,10 @@
 			bottom: 0;
 			background-color: #0C717D; <!-- background-color: #011F3B; -->
 			height: 100%;
-			transition: width 5s; <!-- -->
+			transition: width 1s;
 			text-align: left;
 			padding-right: 1rem;
-			line-height: 2rem; <!-- -->
+			line-height: 1rem; <!-- -->
 			color: white;
 			font-weight: bold;
 		}
