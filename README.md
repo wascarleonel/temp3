@@ -90,42 +90,38 @@
  		<section class="section">
 			<h2>Skills</h2>
 	<!--  ************************************************** -->
-
 <head>
-	
-	<!-- <title>My Progress Bars</title> -->
+	<title>My Progress Bars</title>
 	<style>
-			body {
-		<!-- 	background-color: white; -->
+		body {
+			background-color: white;
 			color: #011F3B;
 			font-family: Arial, sans-serif;
-			margin: 50;
-			padding: 50;
+			margin: 0;
+			padding: 0;
 		}
 		h1 {
 			text-align: center;
-			margin-top: 1rem;
-	
+			margin-top: 2rem;
 		}
 		.progress-bar {
-			position: relative; 
-			align-items: center;
-			width: 50%;
-			height: 2rem; <!--  -->
+			position: relative;
+			width: 100%;
+			height: 2rem;
 			background-color: #E2E2E2;
-			border-radius: 2rem; <!-- 1rem -->
+			border-radius: 1rem;
 			overflow: hidden;
-			margin-bottom: 2rem;
+			margin-bottom: 1rem;
 		}
 		.progress-bar span {
 			position: absolute;
 			left: 0;
 			top: 0;
 			bottom: 0;
-			background-color: #0C717D; <!-- background-color: #011F3B; -->
+			background-color: #011F3B;
 			height: 100%;
 			transition: width 1s;
-			text-align: center; <!-- -->
+			text-align: right;
 			padding-right: 1rem;
 			line-height: 2rem;
 			color: white;
@@ -173,7 +169,7 @@
 	</style>
 </head>
 <body>
-	<!-- <h1>My Progress Bars</h1> -->
+	<h1>My Progress Bars</h1>
 	<div class="progress-container">
 		<div class="progress-bar">
 			<span data-percentage="90%">English</span>
