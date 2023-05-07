@@ -100,6 +100,7 @@
 			font-family: Arial, sans-serif;
 			margin: 50;
 			padding: 50;
+			width: 50%;
 		}
 		h1 {
 			text-align: center;
