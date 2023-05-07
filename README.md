@@ -94,7 +94,7 @@
 	<title>My Progress Bars</title>
 	<style>
 		body {
-			background-color: white;
+			background-color: #011F3B;
 			color: #011F3B;
 			font-family: Arial, sans-serif;
 			margin: 0;
