@@ -104,7 +104,7 @@
 		}
 		h1 {
 			text-align: center;
-			margin-top: 0.5rem;
+			margin-top: 1rem;
 	
 		}
 		.progress-bar {
@@ -113,7 +113,7 @@
 			width: 50%;
 			height: 2rem; <!--  -->
 			background-color: #E2E2E2;
-			border-radius: 1rem; <!-- 1rem -->
+			border-radius: 2rem; <!-- 1rem -->
 			overflow: hidden;
 			margin-bottom: 2rem;
 		}
