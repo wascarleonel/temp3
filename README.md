@@ -92,9 +92,10 @@
 	<!--  ************************************************** -->
 
 <head>
-	align: center; <!-- -->
+	
 	<!-- <title>My Progress Bars</title> -->
 	<style>
+		align: center; <!-- -->
 		body {
 		<!-- 	background-color: white; -->
 			color: #011F3B;
