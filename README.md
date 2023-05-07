@@ -170,7 +170,7 @@
 	</style>
 </head>
 <body>
-	<h1>My Progress Bars</h1>
+	<!-- <h1>My Progress Bars</h1> -->
 	<div class="progress-container">
 		<div class="progress-bar">
 			<span data-percentage="90%">English</span>
