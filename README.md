@@ -111,7 +111,8 @@
 			position: relative; 
 			align-items: center;
 			width: 50%;
-			height: 1rem; <!-- -->
+			height: 12px;
+		<!--	height: 2rem;  -->
 			background-color: #E2E2E2;
 			border-radius: 1rem;
 			overflow: hidden;
