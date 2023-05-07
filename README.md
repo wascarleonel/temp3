@@ -70,11 +70,7 @@
 		</div>
 		<div class="info">
 
-<style>
-	.name {
-		color: white;
-	}
-</style>	
+<style>.name {color: white;}</style>	
 			<div class="name">Wascar Leonel</div>
 			<div class="title">Copywriter | Editor | Educator</div>
 
@@ -88,10 +84,11 @@
 	</header>
 	<main>
 		<section class="section">
+<style>.name {color: white;}
 			<h2>A Little About Me</h2>
 			<p>I've honed my craft as a wordsmith and take pride in transforming complex ideas into engaging and accessible content in both digital (Audio, Video, E-books, etc.) and traditional or physical.</p>
 <p></p>
-<p>As a lifelong learner and passionate educator, I believe in the transformative power of knowledge and the importance of clear and effective communication. My commitment to excellence and innovation drives me to explore new approaches and techniques to deliver the best results possible.</p>
+<p>As a lifelong learner and passionate educator, I believe in the transformative power of knowledge and the importance of clear and effective communication. My commitment to excellence and innovation drives me to explore new approaches and techniques to deliver the best results possible.</p> </style>
 		</section>
 	
  		<section class="section">
