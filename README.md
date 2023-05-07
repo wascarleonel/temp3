@@ -113,7 +113,7 @@
 			width: 50%;
 			height: 1.5rem; <!--  -->
 			background-color: #E2E2E2;
-			border-radius: 1.5rem; <!--  -->
+			border-radius: 2.5rem; <!-- 1rem -->
 			overflow: hidden;
 			margin-bottom: 1rem;
 		}
