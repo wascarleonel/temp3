@@ -108,7 +108,7 @@
 			position: relative;
 			width: 100%;
 			height: 2rem;
-			background-color: #E2E2E2;
+			background-color: #0C717D; <!-- #E2E2E2; -->
 			border-radius: 1rem;
 			overflow: hidden;
 			margin-bottom: 1rem;
