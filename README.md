@@ -92,14 +92,14 @@
 	<!--  ************************************************** -->
 
 <head>
-	<title>My Progress Bars</title>
+	<!-- <title>My Progress Bars</title> -->
 	<style>
 		body {
 		<!-- 	background-color: white; -->
 			color: #011F3B;
 			font-family: Arial, sans-serif;
-			margin: 50;
-			padding: 50;
+			margin: 0;
+			padding: 0;
 		}
 		h1 {
 			text-align: center;
