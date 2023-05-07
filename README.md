@@ -108,7 +108,7 @@
 			position: relative;
 			width: 100%;
 			height: 2rem;
-			background-color: #0C717D; <!-- #E2E2E2; -->
+			background-color: white; <!-- #E2E2E2; -->
 			border-radius: 1rem;
 			overflow: hidden;
 			margin-bottom: 1rem;
@@ -118,7 +118,7 @@
 			left: 0;
 			top: 0;
 			bottom: 0;
-			background-color: #011F3B;
+			background-color: #0C717D; <!--#011F3B; -->
 			height: 100%;
 			transition: width 1s;
 			text-align: right;
