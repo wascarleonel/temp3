@@ -73,7 +73,7 @@
 
 		</div>
 		<nav>
-			<a href="[https://example.com](https://wascarleonel.github.io/temp3/#section-2)">Skills</a>
+			<a href="https://wascarleonel.github.io/temp3/#section-2">Skills</a>
 			<a href="https://wascarleonel.github.io/temp3/#section-2">Portfolio</a>
 			<a href="https://example.com">Button 3</a>
 			<a href="https://example.com">Button 4</a>
