@@ -106,6 +106,7 @@
 		h1 {
 			text-align: center;
 			margin-top: 2rem;
+			align-items: center; <!-- -->
 		}
 		.progress-bar {
 			position: relative;
