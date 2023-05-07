@@ -15,7 +15,7 @@
 			justify-content: space-between;
 			align-items: center;
 			padding: 1rem;
-			background-color: #0F3867;
+			background-color: #0C717D;  <!--  background-color: #0F3867;  -->
 		}
 		nav a {
 			color: white;
