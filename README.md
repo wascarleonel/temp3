@@ -108,7 +108,7 @@
 	
 		}
 		.progress-bar {
-		<!--	position: relative;  -->
+			position: relative; <!-- -->
 			align-items: center;
 			width: 50%;
 			height: 2rem;
