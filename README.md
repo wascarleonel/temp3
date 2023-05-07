@@ -119,7 +119,7 @@
 			left: 0;
 			top: 0;
 			bottom: 0;
-			background-color: #0F3867; <!-- background-color: #011F3B; -->
+			background-color: #0C717D; <!-- background-color: #011F3B; -->
 			height: 100%;
 			transition: width 1s;
 			text-align: right;
