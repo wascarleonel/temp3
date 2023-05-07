@@ -95,8 +95,7 @@
 	
 	<!-- <title>My Progress Bars</title> -->
 	<style>
-		align: center; <!-- -->
-		body {
+			body {
 		<!-- 	background-color: white; -->
 			color: #011F3B;
 			font-family: Arial, sans-serif;
@@ -106,10 +105,11 @@
 		h1 {
 			text-align: center;
 			margin-top: 2rem;
-			align-items: center; <!-- -->
+	
 		}
 		.progress-bar {
-			position: relative;
+		<!--	position: relative;  -->
+			align-items: center;
 			width: 50%;
 			height: 2rem;
 			background-color: #E2E2E2;
