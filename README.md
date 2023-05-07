@@ -115,7 +115,7 @@
 			background-color: #E2E2E2;
 			border-radius: 2.5rem; <!-- 1rem -->
 			overflow: hidden;
-			margin-bottom: 1rem;
+			margin-bottom: 2rem;
 		}
 		.progress-bar span {
 			position: absolute;
