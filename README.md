@@ -98,8 +98,8 @@
 		<!-- 	background-color: white; -->
 			color: #011F3B;
 			font-family: Arial, sans-serif;
-			margin: 0;
-			padding: 0;
+			margin: 50;
+			padding: 50;
 		}
 		h1 {
 			text-align: center;
